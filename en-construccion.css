@@ -1,0 +1,29 @@
+.construction-page {
+    padding: 100px 20px;
+    background-color: #f8f9fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 200px);
+}
+
+.construction-message {
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.construction-message h1 {
+    font-family: 'DM Serif Display', serif;
+    margin-bottom: 20px;
+}
+
+.construction-message p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+}
